@@ -9,3 +9,8 @@ Create a free AWS account - and Create and IAM account and create the AWSAccessK
 Install AWS explorer for visual studio or VS Code
 
 Add AWS profile for the above created IAM user
+
+## Projects
+1. AWSServerless - Lambda code example 
+2. SQSSender - Sends a messae to SQS queue
+3. SQSREceiver - Receives message from SQS
